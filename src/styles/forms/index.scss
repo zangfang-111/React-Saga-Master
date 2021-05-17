@@ -1,0 +1,27 @@
+@import './button.scss';
+@import './input.scss';
+@import './select.scss';
+@import './table.scss';
+@import './radio.scss';
+
+a {
+  cursor: pointer;
+}
+
+h3 {
+  font-size: 25px;
+  line-height: 30px;
+  letter-spacing: 0.5px;
+}
+
+p {
+  font-size: 15px;
+  line-height: 20px;
+  letter-spacing: 0.5px;
+}
+
+.chevron-right {
+  width: 8px;
+  position: absolute;
+  right: 16px;
+}
